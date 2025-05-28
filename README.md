@@ -6,7 +6,7 @@ BEANS
 Build a lightweight but intelligent, AI-powered platform that enables cat owners to track their pets' health, conduct urine tests at home, interpret results with personalized health insights, and take informed next steps.
 
 # 2. Target User
-* Cat owners who care deeply for their cat health - specifically older cats
+* Cat owners who care deeply for their cat health - specifically older cats or cats with chronic issues
 * Users seeking alternatives to vague solutions like Pretty Litter
 * People with previous bad experiences googling symptoms or feeling overwhelmed
 
