@@ -1,2 +1,2 @@
-# omi
-Cat health detection
+# Beans
+AI Cat health monitering app
